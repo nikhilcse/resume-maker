@@ -1,4 +1,4 @@
-# Resume maker
+# Resume Maker
 
 A basic command-line resume generator to Python 3
 
